@@ -4,5 +4,6 @@ name TEXT,
 age INTEGER,
 gender TEXT,
 color TEXT,
-tem
+temperament TEXT,
+alive BOOLEAN
 );
